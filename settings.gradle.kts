@@ -1,0 +1,1 @@
+rootProject.name = "flink-on-k8s"
